@@ -1,0 +1,28 @@
+Building a password generator
+
+VARIABLES 
+- password length
+
+
+prompt the user for how many characters they would like in their password
+
+
+
+
+confirm to ask if they would like special characters
+confirm to ask if they would like numeric chars
+confirm to ask if they would like lowercase chars
+confirm to ask if they would like uppercase
+
+
+how to build this????? fr fr.
+
+
+var specialChars = ["$", "+", "~"]
+var numeric = ["1","2","3"]
+
+
+we got user input for char length
+we got the confrims of what chars they want 
+
+how do we generate it based of the user chars that they chose?
