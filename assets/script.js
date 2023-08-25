@@ -1,4 +1,3 @@
-// Assignment Code
 //VARIABLES DECLARATIONS
 var generateBtn = document.querySelector("#generate"); //storing a ref to the button generate password
 var userCharsLength;
